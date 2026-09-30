@@ -1,3 +1,1 @@
-## Welcome to my Github! 👋
-
-[![casper-rs's GitHubCard](https://githubcard.com/casper-rs.svg?d=GS8SNbYFPRmE)](https://githubcard.com/casper-rs/card?utm_source=github&utm_medium=readme)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Casper-RS&show_icons=true&theme=radical)
